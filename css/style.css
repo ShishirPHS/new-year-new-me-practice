@@ -239,6 +239,10 @@ main {
   font-size: 18px;
 }
 
+.footer input[type="email"]::placeholder {
+  color: #f3f3f3;
+}
+
 .footer input {
   display: block;
 }
