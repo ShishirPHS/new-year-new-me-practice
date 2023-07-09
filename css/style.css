@@ -104,3 +104,43 @@ main {
   color: #16d887;
   margin-right: 10px;
 }
+/* profiles and description part end */
+/* my plans part start */
+.my-plan {
+  margin-bottom: 130px;
+}
+
+.plans {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 50px;
+}
+.plan {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.plan-title {
+  color: #151414;
+  font-size: 40px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.plan-highlight {
+  color: 151414;
+  text-align: center;
+  font-size: 30px;
+  font-weight: 700;
+  margin: 10px 0 18px;
+}
+
+.plan-info {
+  color: #737272;
+  text-align: center;
+  font-size: 25px;
+  font-weight: 500;
+}
+/* my plans part end */
